@@ -1,6 +1,6 @@
 # MontyHall
 
-MontyHall is an example of solving a probability puzzle [The Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) using repeated random sampling ([The Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)) in R.
+MontyHall is an example of solving a probability puzzle ([The Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)) using repeated random sampling ([The Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)) in R.
 
 From Parade magazine in 1990 (as quoted on wikipedia):
 
